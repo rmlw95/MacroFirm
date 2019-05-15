@@ -9,3 +9,5 @@ def lone_sum(a, b, c):
         return 0
     else:
         return a+b+c
+
+    #test change
