@@ -23,4 +23,4 @@ print(lone_sum(1,1,1)) #(1,1,1) will now return 0. Before it would return 1.
 #        return 0
 #    else:
 #        return a+b+c
-# If you print(love_sum(1,1,1)) it would return 1 instead of 0.
+# If you print(lone_sum(1,1,1)) it would return 1 instead of 0.
